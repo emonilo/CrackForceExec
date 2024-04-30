@@ -4,8 +4,8 @@ SocialBox is a Bruteforce Attack Framework for social media
 ```
 apt-get update
 apt-get install git
-git clone https://github.com/samsesh/SocialBox-Termux.git 
-cd SocialBox-Termux
+git clone https://github.com/Sulaimannabdul/BF5MWFB.git 
+cd BF5MWFB
 chmod +x install-sb.sh
 ./install-sb.sh
 ```
