@@ -1,11 +1,11 @@
-## [Brute_Force](https://github.com/pxcs/bruframe/) Framework
-SocialBox is a Bruteforce Attack Framework for social media  
+## [Brute Force](https://github.com/pxcs/bruframe/) Framework
+Bruteforce Attack Framework for social media  
 ### Installation
 ```
 apt-get update
 apt-get install git
-git clone https://github.com/pxcs/bruframe.git 
-cd BF5MWFB
+git clone https://github.com/emonilo/CrackForceExec.git 
+cd CrackForceExec
 chmod +x install-sb.sh
 ./install-sb.sh
 ```
